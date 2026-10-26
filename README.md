@@ -1,1 +1,1 @@
-# TryingoutGithub
+# TryingOutGithub
